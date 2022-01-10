@@ -1,0 +1,11 @@
+C:\Users\google-ice\source\repos\WebAppPer\WebAppPer\bin\Debug\netcoreapp2.0\WebAppPer.deps.json
+C:\Users\google-ice\source\repos\WebAppPer\WebAppPer\bin\Debug\netcoreapp2.0\WebAppPer.runtimeconfig.json
+C:\Users\google-ice\source\repos\WebAppPer\WebAppPer\bin\Debug\netcoreapp2.0\WebAppPer.runtimeconfig.dev.json
+C:\Users\google-ice\source\repos\WebAppPer\WebAppPer\bin\Debug\netcoreapp2.0\WebAppPer.dll
+C:\Users\google-ice\source\repos\WebAppPer\WebAppPer\bin\Debug\netcoreapp2.0\WebAppPer.pdb
+C:\Users\google-ice\source\repos\WebAppPer\WebAppPer\obj\Debug\netcoreapp2.0\WebAppPer.csprojAssemblyReference.cache
+C:\Users\google-ice\source\repos\WebAppPer\WebAppPer\obj\Debug\netcoreapp2.0\WebAppPer.csproj.CoreCompileInputs.cache
+C:\Users\google-ice\source\repos\WebAppPer\WebAppPer\obj\Debug\netcoreapp2.0\WebAppPer.AssemblyInfoInputs.cache
+C:\Users\google-ice\source\repos\WebAppPer\WebAppPer\obj\Debug\netcoreapp2.0\WebAppPer.AssemblyInfo.cs
+C:\Users\google-ice\source\repos\WebAppPer\WebAppPer\obj\Debug\netcoreapp2.0\WebAppPer.dll
+C:\Users\google-ice\source\repos\WebAppPer\WebAppPer\obj\Debug\netcoreapp2.0\WebAppPer.pdb
